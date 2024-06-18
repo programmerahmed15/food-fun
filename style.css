@@ -1,0 +1,146 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+  font-family: "Playfair Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  }
+  
+  .navbar{
+    height: 80px;
+    margin-top: -45%;
+  }
+  .navbar-nav{
+    position: absolute;
+    right: 60px;
+  }
+  ul li{
+    font-size: 25px;
+    font-weight: 700;
+  }
+ .text h5 {
+    color: white;
+    margin-top: 20%;
+    margin-left: 35%;
+  }
+  .text h1{
+    color: white;
+    margin-left: 35%;
+  }
+  span{
+    color: orange;
+  }
+  .section2{
+    background-color: white;
+    margin-top: 10%;
+  }
+  .section2 img{
+    height: 500px;
+  }
+  .section2 .box1{
+    margin-top: 10%;
+    margin-left: 5%;
+  }
+   button{
+  background-color: orange;
+  width: 150px;
+    height: 50px;
+    color:black;
+    border: thick;
+    font-size: 20px;
+  }
+  button:hover{
+    color: white;
+  }
+.food img{
+  margin-left: 300px;
+}
+.box2:hover{
+  color: rgb(228, 157, 23);
+  font-size: 20px;
+
+}
+.box2 span:hover{
+  color: black;
+}
+.box img:hover{
+font-size: xx-large;
+}
+
+.box3 h2{
+ 
+  position: absolute;
+  left: 42%;
+}
+i:hover{
+  color: orange;
+  cursor: pointer;
+}
+.box6 img{
+  background-color: transparent;
+filter: brightness(30%);
+width: 100%;
+height: 500px;}
+.box6 {
+  position: relative;
+  display: inline-block;
+}
+
+.caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate( -50%, -50% );
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.box7 img{
+object-fit: cover;
+width: 100%;
+height: 350px;}
+.box7 {
+  position: relative;
+  display: inline-block;
+}
+
+.reserve {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate( -50%, -50% );
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.book{
+  position: relative;
+  display: inline-block;
+}
+.book img{
+  filter: brightness(20%);
+  object-fit: fill;
+  width: 100%;
+  height: 400px;}
+  .table {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50% );
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+  }
+  .foot{
+    background-color: #131230;
+    color: #3a516c;
+   width: 100%;
+  }
+  
